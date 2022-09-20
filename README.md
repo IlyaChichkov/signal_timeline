@@ -22,7 +22,7 @@ Users are able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ilyachichkov.github.io/signal_timeline/)
+- Live Site URL: [Demo](https://ilyachichkov.github.io/signal_timeline/)
 
 ## My process
 
