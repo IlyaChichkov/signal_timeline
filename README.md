@@ -1,24 +1,41 @@
-# signal_timeline
+# Todo App
 
-## Project setup
-```
-npm install
-```
+## Table of contents
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [Useful resources](#useful-resources)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Overview
 
-### Lints and fixes files
-```
-npm run lint
-```
+Users are able to:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Change line code types (Unipolar NRZ, Bipolar NRZ, Unipolar RZ, Manchester-2 and ect.)
+- Generate random signals
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://ilyachichkov.github.io/signal_timeline/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [VUE](https://vuejs.org/) - VUE framework
+- [TailwindCSS](https://tailwindcss.ru/) - For styles
+
+### Useful resources
+
+- [Google Fonts](https://fonts.google.com/)
+
